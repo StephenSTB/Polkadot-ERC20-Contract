@@ -7,5 +7,7 @@
 
 ![GitHub Logo](InitialBalances.png)
 
-![GitHub Logo](transfer.png)
+### Transfer
+
+![GitHub Logo](Transfer.png)
  
